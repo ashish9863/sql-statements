@@ -1,0 +1,6 @@
+CREATE TABLE table_name(
+studentid VARCHAR (20) NOT NULL,
+studentlastname VARCHAR (20) NOT NULL,
+studentfirstname VARCHAR (20) NOT NULL,
+programgroupname VARCHAR (20) NOT NULL,
+term VARCHAR (20) NOT NULL
