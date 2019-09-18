@@ -5,3 +5,14 @@ CREATE TABLE veggies (
 	quality varchar(255),
    
 );
+
+
+
+
+
+CREATE table lot (
+ lot_id varchar(20) primary key,
+veggie_name varchar(255),
+lot_name varchar(20),
+production_per_unit varchar(20),
+);
