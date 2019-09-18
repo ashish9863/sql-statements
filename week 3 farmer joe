@@ -1,0 +1,7 @@
+CREATE TABLE veggies (
+    veggie_id varchar(20),
+	cost money,
+	veggie_name varchar(255),
+	quality varchar(255),
+   
+);
